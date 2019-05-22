@@ -1,0 +1,5 @@
+<!--index.wxml-->
+<view>
+<button type="primary" bindtap="toScroll" style='margin-top:100rpx'>scroll-view</button>
+<button type="primary" bindtap="toCanvas" style='margin-top:100rpx'>canvas</button>
+</view>

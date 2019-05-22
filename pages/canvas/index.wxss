@@ -1,0 +1,12 @@
+/* pages/canvas/index.wxss */
+.container {
+  background-color: #ccc;
+  margin: 20rpx 20rpx 20rpx 20rpx; 
+  overflow: hidden;
+  height: 1500rpx;
+}.list{
+  height: 1500rpx;
+}
+.txt-light {
+  color:#acadbe;
+}

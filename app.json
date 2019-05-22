@@ -1,0 +1,16 @@
+{
+  "pages": [
+    "pages/canvas/index",
+    "pages/index/index",
+    "pages/scroll/index",
+    
+    "pages/logs/logs"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "字幕滚动",
+    "navigationBarTextStyle": "black"
+  },
+  "sitemapLocation": "sitemap.json"
+}
